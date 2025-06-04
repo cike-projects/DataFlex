@@ -1,3 +1,16 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
 # Compiled class file
 *.class
 
