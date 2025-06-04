@@ -134,6 +134,6 @@ A: 可以通过扩展项目的数据源适配器模块，实现新的数据源�
 A: 查询模板支持通过 `{param}` 占位符进行参数化替换，用户可以在查询时动态传入参数值。
 
 ## 许可证
-**DataFlex** 项目遵循 [Apache License](LICENSE)。欢迎使用和分享！
+**DataFlex** 项目遵循 [Apache License 2.0](LICENSE)。欢迎使用和分享！
 
 ---
