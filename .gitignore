@@ -31,6 +31,10 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
+!.idea/vcs.xml
+!.idea/.gitignore
+!.idea/encodings.xml
+!.idea/misc.xml
 *.iws
 *.iml
 *.ipr
@@ -64,3 +68,5 @@ build/
 .LSOverride
 .Spotlight-V100
 .Trashes
+
+.xcodemap

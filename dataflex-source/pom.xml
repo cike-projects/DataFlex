@@ -9,7 +9,14 @@
         <version>0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>dataflex-core-api</artifactId>
+    <artifactId>dataflex-source</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>dataflex-source-mysql</module>
+        <module>dataflex-source-mongodb</module>
+        <module>dataflex-source-postgresql</module>
+        <module>dataflex-source-clickhouse</module>
+    </modules>
 
     <properties>
     </properties>

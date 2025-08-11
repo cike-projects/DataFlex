@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>dataflex-core-api</module>
+        <module>dataflex-source</module>
     </modules>
 
     <properties>
