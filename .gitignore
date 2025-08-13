@@ -30,11 +30,12 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-.idea
+.idea/
 !.idea/vcs.xml
 !.idea/.gitignore
 !.idea/encodings.xml
 !.idea/misc.xml
+!.idea/icon.svg
 *.iws
 *.iml
 *.ipr
